@@ -2,14 +2,14 @@
 
 import java.util.Scanner;
 
-public class exercicio_01 {
+public class exer_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int [] num = new int[8];
         int soma = 0;
 
-        System.out.println("digite 8 números: \n");
+        System.out.println("digite 8 números:\n");
 
         for (int i = 0; i < 8; i++){
             num[i] = scanner.nextInt();
