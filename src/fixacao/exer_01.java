@@ -1,3 +1,4 @@
+package fixacao;
 //Elaborar um programa que leia 8 números inteiros e exiba quantos são maiores que a média desses valores.
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+package fixacao;
 //Elaborar um programa que leia um vetor de 10 posições. Contar e escrever quantos valores pares ele possui.
 
 import java.util.Scanner;

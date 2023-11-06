@@ -1,4 +1,6 @@
+package fixacao;
 //Elaborar um programa com um vetor de tamanho 10 preenchido com o seguinte valor:(i + 5i) % (i+1), 
+
 //sendo que i a posição do elemento no vetor. Em seguida imprima o vetor na tela.
 
 public class exer_10 {

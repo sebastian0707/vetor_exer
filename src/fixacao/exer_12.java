@@ -1,10 +1,12 @@
+package fixacao;
 //Ler dois conjuntos de números reais, armazenando-os em vetores e calcular o produto escalar entre eles. 
+
 //Os conjuntos tem 5 elementos cada. 
 //Imprimir os dois conjuntos e o produto escalar, sendo que o produto escalar e dado por: x1 ∗ y1 + x2 ∗ y2 + ... + xn ∗ yn.
 
 import java.util.Scanner;
 
-public class exer_11 {
+public class exer_12 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

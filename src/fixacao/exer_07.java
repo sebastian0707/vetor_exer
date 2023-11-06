@@ -1,4 +1,6 @@
+package fixacao;
 //Elaborar um programa que leia um vetor com 20 números inteiros. 
+
 //Escreva os elementos do vetor eliminando elementos repetidos.
 
 import java.util.Scanner;
